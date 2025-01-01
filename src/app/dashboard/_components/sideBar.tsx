@@ -7,13 +7,13 @@ function Sidebar() {
             id: 1,
             title: 'Students',
             icon: Users,
-            route: '/students'
+            route: '/dashboard/students'
         },
         {
             id: 2,
             title: 'Class',
             icon: School,
-            route: '/class'
+            route: '/dashboard/class'
         },
         {
             id: 3,
